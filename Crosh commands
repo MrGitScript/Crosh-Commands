@@ -1,0 +1,35 @@
+Open Crosh	Ctrl + Alt + T
+
+Ping	ping [domain]
+
+Test memory	memory_test
+
+Configure modem	modem help
+
+Rollback Chrome OS	rollback
+
+Stop a process in Crosh	Ctrl + C
+
+Open Task Manager	top
+
+Battery Manager	battery_test [seconds]
+
+Developer Mode commands	shell, systrace, packet_capture
+
+Users and uptime	uptime
+
+Time settings	set_time
+
+Network diagnostics	network_diag
+
+Network trace	tracepath
+
+Help	help, help_advanced
+
+Memory information	free, meminfo
+
+Switch to the canary channel	live_in_a_coal_mine
+
+Auto-updates over cellular networks	update_over_cellular [enable|disable]
+
+Exit Crosh	exit
